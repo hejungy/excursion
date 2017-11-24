@@ -3,5 +3,7 @@
 .font{font-family: Verdana;}
 .down{color: aquamarine; font-size: 16px;}
 .white{color: white;}
+.gray{color: gray;}
+.size-21{font-size: 21px;}
 h1{font-size: 50px}
-h2{}
+h2{font-weight: 300; font-size: 42;}
